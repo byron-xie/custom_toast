@@ -1,0 +1,13 @@
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/message"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_horizontal"
+    android:minHeight="50dp"
+    android:textColor="@color/colorAccent"
+    android:shadowColor="#BB000000"
+    android:shadowRadius="2.75"
+    >
+
+
+</TextView>
